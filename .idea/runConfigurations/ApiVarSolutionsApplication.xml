@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ApiVarSolutionsApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="MAIN_CLASS_NAME" value="com.br.var.solutions.ApiVarSolutionsApplication" />
+    <module name="var.solutions" />
+    <option name="VM_PARAMETERS" value="-Dserver.port=8081" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.br.var.solutions.adapters.input.controllers.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
